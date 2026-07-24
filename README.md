@@ -3,7 +3,7 @@
 A clean, responsive, and lightweight Task Management web application built using native **Vanilla JavaScript**, HTML5, and CSS3. This project demonstrates modern frontend basics, state management via LocalStorage, and interactive DOM manipulation without the use of heavy external frameworks.
 
 ## 🚀 Live Demo
-Link : https://rehanabanoo.github.io/Task_Manager/?
+Link : https://rehanabanoo.github.io/Task_Manager
 
 ---
 
